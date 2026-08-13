@@ -19,7 +19,6 @@
 - 🎓 **Formação**: Estudante de Ciência da Computação / Análise e Desenvolvimento de Sistemas no **IFPR**.
 - 🛠️ **Foco**: Desenvolvimento Web Full-Stack, Ambientes DevOps / Docker e Automação de Processos.
 - 🐧 **Ambiente**: Linux enthusiast (Ubuntu / GNOME / CLI).
-- 💡 **Filosofia**: Código limpo, pragmático, eficiente e bem documentado.
 
 ---
 
