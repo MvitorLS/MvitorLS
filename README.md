@@ -112,8 +112,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MvitorLS&layout=compact&theme=tokyonight&hide=html,css&hide_border=false" alt="Linguagens mais usadas" />
 </div>
 
+</div>
+
 <br>
 
+<!-- SNAKE ANIMATION -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MvitorLS/MvitorLS/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MvitorLS/MvitorLS/output/dist/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/MvitorLS/MvitorLS/output/dist/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+<br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MvitorLS&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Gráfico de Atividades" />
 </div>
