@@ -1,5 +1,8 @@
 <div align="center">
 
+  <img src="https://komarev.com/ghpvc/?username=MvitorLS&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=0d9488&style=for-the-badge" alt="Profile Views" />
+  <br><br>
+
   <!-- ANIMATED TYPING HEADER -->
   <a href="https://github.com/MvitorLS">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0D9488&center=true&vCenter=true&width=650&height=70&lines=Ol%C3%A1%2C+eu+sou+Matheus+Vitor!+%F0%9F%90%A7;Desenvolvedor+Full-Stack+%26+DevOps;Estudante+de+Tecnologia+no+IFPR;PHP+%7C+Node.js+%7C+Python+%7C+Docker" alt="Typing SVG" />
@@ -122,6 +125,12 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MvitorLS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" alt="Estatísticas do GitHub" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MvitorLS&layout=compact&theme=tokyonight&hide=html,css&hide_border=false" alt="Linguagens mais usadas" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MvitorLS&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
 </div>
