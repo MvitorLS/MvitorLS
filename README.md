@@ -133,6 +133,13 @@
   <img src="https://streak-stats.demolab.com/?user=MvitorLS&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MvitorLS&theme=tokyonight" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MvitorLS&theme=tokyonight&utcOffset=-3" width="48%">
+</div>
+
 </div>
 
 <br>
