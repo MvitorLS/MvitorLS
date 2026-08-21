@@ -134,6 +134,20 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">🧪 Loja Virtual (QA & Pytest)</h3>
+      <p align="center">
+        <a href="https://github.com/MvitorLS/loja-virtual-testes">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=22C55E&center=true&width=350&height=35&lines=Suite+de+Testes+Python;Pytest+%7C+Mocks+%7C+100%25+Coverage" alt="loja-virtual-testes" />
+        </a>
+      </p>
+      <p>Arquitetura de testes automatizados com Python, Pytest e Mocks. Separação rigorosa entre testes unitários e de integração com 100% de cobertura e CI.</p>
+      <p align="center">
+        <a href="https://github.com/MvitorLS/loja-virtual-testes">
+          <img src="https://img.shields.io/badge/Ver_Repositório-22C55E?style=for-the-badge&logo=pytest&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">📱 Checklist de Metas</h3>
       <p align="center">
         <a href="https://github.com/MvitorLS/checklist-de-metas">
@@ -147,17 +161,33 @@
         </a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🏥 MediControl / SaúdeControl</h3>
       <p align="center">
         <a href="https://github.com/MvitorLS/projeto-controle-medicamentos">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=0D9488&center=true&width=350&height=35&lines=Gest%C3%A3o+de+Medicamentos+%26+Sa%C3%BAde;Dashboard+%7C+M%C3%A9tricas+%7C+OCR" alt="medicontrol" />
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=0D9488&center=true&width=350&height=35&lines=Gest%C3%A3o+de+Medicamentos+%26+Sa%C3%BAde;Multi-Theme+%7C+GSAP+%7C+OCR" alt="medicontrol" />
         </a>
       </p>
-      <p>Plataforma completa de saúde pessoal para acompanhamento de dosagens de medicamentos, gráficos de métricas vitais e simulação de scanner OCR em receitas.</p>
+      <p>Plataforma completa de saúde pessoal com motor multi-tema, animações GSAP, controle de dosagens, métricas vitais e simulação de scanner OCR.</p>
       <p align="center">
         <a href="https://github.com/MvitorLS/projeto-controle-medicamentos">
           <img src="https://img.shields.io/badge/Ver_Repositório-0D9488?style=for-the-badge&logo=mediamarkt&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤟 Sistema Libras Acessibilidade</h3>
+      <p align="center">
+        <a href="https://github.com/MvitorLS/sistema-libras-acessibilidade">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=F59E0B&center=true&width=350&height=35&lines=Acessibilidade+Web+Libras;Dactilologia+%7C+VLibras+3D+%7C+WCAG" alt="sistema-libras" />
+        </a>
+      </p>
+      <p>Widget interativo e motor de dactilologia dinâmica em Libras com integração ao VLibras 3D para conformidade com normas de acessibilidade digital (WCAG 2.1).</p>
+      <p align="center">
+        <a href="https://github.com/MvitorLS/sistema-libras-acessibilidade">
+          <img src="https://img.shields.io/badge/Ver_Repositório-F59E0B?style=for-the-badge&logo=w3c&logoColor=white" />
         </a>
       </p>
     </td>
