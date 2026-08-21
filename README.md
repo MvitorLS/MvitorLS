@@ -28,7 +28,7 @@
   <!-- GITHUB TROPHIES (Animated 3D) -->
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=MvitorLS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="MvitorLS Trophies" />
+      <img src="https://github-profile-trophy-xi.vercel.app/?username=MvitorLS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="MvitorLS Trophies" />
     </a>
   </p>
 
@@ -123,8 +123,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MvitorLS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MvitorLS&layout=compact&theme=tokyonight&hide=html,css&hide_border=false" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=MvitorLS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MvitorLS&layout=compact&theme=tokyonight&hide=html,css&hide_border=false" alt="Linguagens mais usadas" />
 </div>
 
 <br>
@@ -140,16 +140,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MvitorLS&theme=tokyonight&utcOffset=-3" width="48%">
 </div>
 
-</div>
-
 <br>
 
 <!-- SNAKE ANIMATION -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MvitorLS/MvitorLS/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MvitorLS/MvitorLS/output/dist/github-contribution-grid-snake.svg">
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/MvitorLS/MvitorLS/output/dist/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MvitorLS/MvitorLS/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MvitorLS/MvitorLS/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/MvitorLS/MvitorLS/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
