@@ -192,6 +192,36 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Telegram Radar Bot</h3>
+      <p align="center">
+        <a href="https://github.com/MvitorLS/telegram-radar-bot">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=229ED9&center=true&width=350&height=35&lines=Bot+Telegram+Ass%C3%ADncrono;Python+3.14+%7C+Matchmaking+%7C+Radar" alt="telegram-radar-bot" />
+        </a>
+      </p>
+      <p>Bot inteligente 24/7 com algoritmo de matchmaking de vagas (Estágio & Jr) com pontuação de afinidade (% de Match) e rastreador de promoções tech.</p>
+      <p align="center">
+        <a href="https://github.com/MvitorLS/telegram-radar-bot">
+          <img src="https://img.shields.io/badge/Ver_Repositório-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 MediControl Fullstack</h3>
+      <p align="center">
+        <a href="https://github.com/MvitorLS/medicontrol-faculdade">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=10B981&center=true&width=350&height=35&lines=Sistema+Fullstack+IFPR;React+%7C+Node.js+%7C+SQLite+Sequelize" alt="medicontrol-faculdade" />
+        </a>
+      </p>
+      <p>Sistema acadêmico fullstack de controle de medicamentos com autenticação JWT, proteção contra força bruta e banco relacional local via Sequelize ORM.</p>
+      <p align="center">
+        <a href="https://github.com/MvitorLS/medicontrol-faculdade">
+          <img src="https://img.shields.io/badge/Ver_Repositório-10B981?style=for-the-badge&logo=sqlite&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
