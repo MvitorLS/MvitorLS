@@ -148,16 +148,16 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📱 Checklist de Metas</h3>
+      <h3 align="center">📱 Checklist de Metas (MetaCheck)</h3>
       <p align="center">
         <a href="https://github.com/MvitorLS/checklist-de-metas">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=8B5CF6&center=true&width=350&height=35&lines=App+Mobile-First;React+%7C+Vite+%7C+Capacitor" alt="checklist-de-metas" />
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=38BDF8&center=true&width=350&height=35&lines=App+Mobile+Nativo+v1.3.2;React+19+%7C+Capacitor+%7C+Alarmes+%7C+Temas" alt="checklist-de-metas" />
         </a>
       </p>
-      <p>Aplicativo mobile-first para gestão de hábitos diários e metas de produtividade, empacotado para Android via Capacitor e publicado na Google Play.</p>
+      <p>Aplicativo mobile nativo e PWA para gestão de hábitos diários e metas de produtividade, com alarmes exatos em segundo plano, 5 temas visuais, backup JSON/CSV e APK compilado.</p>
       <p align="center">
         <a href="https://github.com/MvitorLS/checklist-de-metas">
-          <img src="https://img.shields.io/badge/Ver_Repositório-8B5CF6?style=for-the-badge&logo=android&logoColor=white" />
+          <img src="https://img.shields.io/badge/Ver_Repositório-38BDF8?style=for-the-badge&logo=android&logoColor=white" />
         </a>
       </p>
     </td>
