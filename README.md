@@ -297,11 +297,6 @@
 
 <br>
 
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MvitorLS&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Gráfico de Atividades" />
-</div>
-
 ---
 
 ### 📫 Vamos Conectar?
