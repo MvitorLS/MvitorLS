@@ -15,16 +15,19 @@
 
   <!-- SHIELDS DYNAMIC STATUS BADGES -->
   <p align="center">
+    <a href="https://mvitorls.github.io/portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Portfólio_Online-Live_Demo-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio">
+    </a>
+    <a href="https://mvitorls.github.io/portfolio/Curriculo_Matheus_Vitor_Schionato.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/📄_Currículo_PDF-Download-10b981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo">
+    </a>
     <a href="https://github.com/MvitorLS">
       <img src="https://img.shields.io/github/followers/MvitorLS?label=Seguidores&style=for-the-badge&logo=github&color=0d9488&logoColor=white" alt="Followers">
     </a>
     <a href="https://github.com/MvitorLS?tab=repositories">
       <img src="https://img.shields.io/github/stars/MvitorLS?label=Estrelas&style=for-the-badge&logo=apachespark&color=e63946&logoColor=white" alt="Stars">
     </a>
-    <a href="https://github.com/MvitorLS">
-      <img src="https://img.shields.io/badge/Status-Ativo_&_Codando-success?style=for-the-badge&logo=gnome&color=10b981" alt="Status">
-    </a>
-    <a href="mailto:vitor@schionato.dev">
+    <a href="mailto:matheus.schionato17@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contato_Direto-blue?style=for-the-badge&logo=gmail&color=3b82f6" alt="Email">
     </a>
   </p>
