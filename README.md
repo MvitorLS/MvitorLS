@@ -1,9 +1,5 @@
 <div align="center">
 
-  <!-- PROFILE VIEWS -->
-  <img src="https://komarev.com/ghpvc/?username=MvitorLS&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=38bdf8&style=for-the-badge" alt="Profile Views" />
-  <br><br>
-
   <!-- ANIMATED NEON TYPING HEADER -->
   <a href="https://github.com/MvitorLS">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=85&lines=Ol%C3%A1%2C+eu+sou+Matheus+Vitor!+%F0%9F%9A%80;Desenvolvedor+Fullstack+%26+DevOps+%F0%9F%90%A7;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+no+IFPR+%F0%9F%8E%93;Estagi%C3%A1rio+de+Desenvolvimento+na+Celepar+%F0%9F%8F%9B%EF%B8%8F;PHP+8+%7C+Python+%7C+Node.js+%7C+React+%7C+Docker" alt="Typing SVG" />
@@ -330,7 +326,3 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<div align="center">
-  <sub>Desenvolvido com dedicação, arquitetura moderna e paixão por engenharia de software por <b>Matheus Vitor Lourenço Schionato</b></sub>
-</div>
