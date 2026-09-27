@@ -1,5 +1,9 @@
 **English** · [Português](README.pt-br.md)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I%27m+Matheus+Vitor+%F0%9F%91%8B;CS+student+%40+IFPR;Software+Dev+Intern+%40+Celepar;PHP+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Docker" alt="Hi, I'm Matheus Vitor" />
+</p>
+
 # Matheus Vitor Schionato
 
 Computer Science student at IFPR and software development intern at **Celepar** (Paraná's state IT company), in Curitiba, Brazil. I work mostly with PHP, Python and JavaScript/TypeScript, and I like building small tools that solve problems I actually have — the job-hunting bot and the goals app below both started that way.
@@ -31,3 +35,11 @@ Data pipelines (ETL) for internal reporting, network and internal systems suppor
 **Web:** React, Node.js/Express, Tailwind, Vite  
 **Infra:** Docker/Compose, Linux, Nginx, Prometheus/Grafana, GitHub Actions  
 **Data:** PostgreSQL, MySQL, SQLite, Redis
+
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MvitorLS/MvitorLS/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MvitorLS/MvitorLS/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/MvitorLS/MvitorLS/output/github-contribution-grid-snake.svg" width="100%">
+</picture>

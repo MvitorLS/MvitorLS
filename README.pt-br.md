@@ -1,5 +1,9 @@
 [English](README.md) · **Português**
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=70&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+Vitor+%F0%9F%91%8B;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+IFPR;Estagi%C3%A1rio+de+Dev+%40+Celepar;PHP+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Docker" alt="Olá, eu sou o Matheus Vitor" />
+</p>
+
 # Matheus Vitor Schionato
 
 Estudante de Ciência da Computação no IFPR e estagiário de desenvolvimento na **Celepar**, em Curitiba. Trabalho principalmente com PHP, Python e JavaScript/TypeScript, e gosto de construir ferramentas pequenas para problemas que eu mesmo tenho — o bot de vagas e o app de metas abaixo nasceram assim.
@@ -31,3 +35,11 @@ Pipelines de dados (ETL) para relatórios internos, suporte à rede e aos sistem
 **Web:** React, Node.js/Express, Tailwind, Vite  
 **Infra:** Docker/Compose, Linux, Nginx, Prometheus/Grafana, GitHub Actions  
 **Dados:** PostgreSQL, MySQL, SQLite, Redis
+
+## Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MvitorLS/MvitorLS/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MvitorLS/MvitorLS/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/MvitorLS/MvitorLS/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
