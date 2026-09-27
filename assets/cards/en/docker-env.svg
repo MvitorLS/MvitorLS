@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-label="docker-env">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#131a2e"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="1" cy="0" r="1">
+      <stop offset="0" stop-color="#3b82f6" stop-opacity=".22"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bar" x1="0" x2="1">
+      <stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0 } }
+      .shine { animation: shine 5s ease-in-out infinite; }
+      @keyframes shine { 0%, 100% { opacity: .55 } 50% { opacity: 1 } }
+    </style>
+  </defs>
+  <rect x=".5" y=".5" width="599" height="299" rx="16" fill="url(#bg)" stroke="#ffffff" stroke-opacity=".08"/>
+  <rect x=".5" y=".5" width="599" height="299" rx="16" fill="url(#glow)"/>
+  <rect class="shine" x="28" y="0" width="180" height="3" rx="1.5" fill="url(#bar)"/>
+  <g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif">
+    <text x="28" y="50" font-family="'JetBrains Mono', Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="11" letter-spacing="1.5" fill="#3b82f6">DOCKER · DX</text>
+    <text x="28" y="88" font-size="26" font-weight="800" fill="#f1f5f9">docker-env</text>
+    <text x="28" y="124" font-size="14" fill="#94a3b8">Multi-language dev environment using</text><text x="28" y="145" font-size="14" fill="#94a3b8">Compose profiles. The ./dev CLI</text><text x="28" y="166" font-size="14" fill="#94a3b8">detects the project type and starts</text><text x="28" y="187" font-size="14" fill="#94a3b8">what it needs.</text>
+  </g>
+  <rect x="28" y="244" width="114" height="24" rx="12" fill="#3b82f6" fill-opacity=".12" stroke="#3b82f6" stroke-opacity=".35"/><text x="85.0" y="260" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="11" fill="#3b82f6">Docker Compose</text><rect x="150" y="244" width="44" height="24" rx="12" fill="#3b82f6" fill-opacity=".12" stroke="#3b82f6" stroke-opacity=".35"/><text x="172.0" y="260" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="11" fill="#3b82f6">Bash</text><rect x="202" y="244" width="51" height="24" rx="12" fill="#3b82f6" fill-opacity=".12" stroke="#3b82f6" stroke-opacity=".35"/><text x="227.5" y="260" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="11" fill="#3b82f6">Nginx</text>
+  
+  <g transform="translate(336 44)">
+    <rect width="244" height="212" rx="10" fill="#020617" stroke="#3b82f6" stroke-opacity=".45"/>
+    <circle cx="14" cy="13" r="4" fill="#f87171"/><circle cx="27" cy="13" r="4" fill="#fbbf24"/><circle cx="40" cy="13" r="4" fill="#34d399"/>
+    <text x="122" y="17" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="10" fill="#475569">docker-env</text>
+    <g font-family="'JetBrains Mono', Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="11.5"><text x="14" y="52" fill="#e2e8f0">$ ./dev up</text><text x="14" y="73" fill="#60a5fa">▶ projeto detectado: php</text><text x="14" y="94" fill="#4ade80">✔ nginx     :80</text><text x="14" y="115" fill="#4ade80">✔ php83     fpm</text><text x="14" y="136" fill="#4ade80">✔ mysql     :3306</text><text x="14" y="157" fill="#4ade80">✔ redis     :6379</text><text x="14" y="178" fill="#94a3b8">ambiente pronto em 4.1s</text></g>
+    <rect class="cursor" x="14" y="191" width="7" height="12" fill="#e2e8f0"/>
+  </g>
+</svg>

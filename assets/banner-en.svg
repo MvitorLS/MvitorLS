@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Matheus Vitor Schionato — Software Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#111a33"/>
+      <stop offset="1" stop-color="#1a1333"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.5" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#c084fc"/>
+      <animate attributeName="x1" values="0;-1;0" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;0;1" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glowA"><stop offset="0" stop-color="#38bdf8" stop-opacity=".35"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowB"><stop offset="0" stop-color="#a855f7" stop-opacity=".30"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".04"/>
+    </pattern>
+    <clipPath id="round"><rect width="1200" height="320" rx="18"/></clipPath>
+    <style>
+      .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+      .mono { font-family: 'JetBrains Mono', Consolas, 'DejaVu Sans Mono', Menlo, monospace; }
+      .fade { opacity: 0; animation: in .9s ease-out forwards; }
+      .d1 { animation-delay: .15s } .d2 { animation-delay: .45s } .d3 { animation-delay: .75s } .d4 { animation-delay: 1.05s }
+      @keyframes in { from { opacity: 0; transform: translateY(10px) } to { opacity: 1; transform: none } }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0 } }
+      .float { animation: float 9s ease-in-out infinite; }
+      .float2 { animation: float 11s ease-in-out infinite reverse; }
+      @keyframes float { 50% { transform: translate(-30px, 18px) } }
+      .dot { animation: pulse 2.4s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+      @keyframes pulse { 50% { opacity: .35; transform: scale(.8) } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <circle class="float" cx="1010" cy="70" r="230" fill="url(#glowB)"/>
+    <circle class="float2" cx="170" cy="300" r="260" fill="url(#glowA)"/>
+
+    <!-- janela de terminal -->
+    <g transform="translate(760 64)"><g class="fade d3">
+      <rect width="380" height="192" rx="12" fill="#0d1224" fill-opacity=".85" stroke="#ffffff" stroke-opacity=".08"/>
+      <circle cx="22" cy="20" r="6" fill="#f87171"/><circle cx="42" cy="20" r="6" fill="#fbbf24"/><circle cx="62" cy="20" r="6" fill="#34d399"/>
+      <text x="190" y="25" text-anchor="middle" class="mono" font-size="12" fill="#64748b">vitor@ubuntu: ~</text>
+      <g class="mono" font-size="15">
+        <text x="22" y="66"><tspan fill="#34d399">$</tspan><tspan fill="#e2e8f0"> whoami</tspan></text>
+        <text x="22" y="92" fill="#94a3b8">matheus-vitor · curitiba, pr</text>
+        <text x="22" y="124"><tspan fill="#34d399">$</tspan><tspan fill="#e2e8f0"> cat stack.txt</tspan></text>
+        <text x="22" y="150" fill="#38bdf8">php  python  typescript  docker</text>
+        <text x="22" y="182"><tspan fill="#34d399">$</tspan><tspan fill="#e2e8f0"> </tspan><tspan class="cursor" fill="#e2e8f0">▍</tspan></text>
+      </g>
+    </g></g>
+
+    <!-- texto -->
+    <g transform="translate(64 0)">
+      <g class="fade d1">
+        <rect x="0" y="70" width="226" height="30" rx="15" fill="#34d399" fill-opacity=".12" stroke="#34d399" stroke-opacity=".35"/>
+        <circle class="dot" cx="20" cy="85" r="5" fill="#34d399"/>
+        <text x="34" y="90" class="sans" font-size="14" font-weight="600" fill="#6ee7b7">Open to opportunities</text>
+      </g>
+      <text x="0" y="158" class="sans fade d2" font-size="46" font-weight="800" fill="url(#name)">Matheus Vitor Schionato</text>
+      <text x="0" y="200" class="sans fade d3" font-size="22" font-weight="500" fill="#cbd5e1">Software Developer · Fullstack &amp; DevOps</text>
+      <text x="0" y="238" class="mono fade d4" font-size="15" fill="#64748b">Computer Science @ IFPR  ·  Intern @ Celepar</text>
+    </g>
+  </g>
+</svg>

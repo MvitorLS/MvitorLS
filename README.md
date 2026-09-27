@@ -1,45 +1,58 @@
-**English** · [Português](README.pt-br.md)
+<p align="right"><b>🇧🇷 Português</b> · <a href="README.en.md">🇺🇸 English</a></p>
+
+<a href="https://mvitorls.github.io/portfolio/"><img src="assets/banner.svg" alt="Matheus Vitor Schionato" width="100%"/></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I%27m+Matheus+Vitor+%F0%9F%91%8B;CS+student+%40+IFPR;Software+Dev+Intern+%40+Celepar;PHP+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Docker" alt="Hi, I'm Matheus Vitor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&height=40&lines=Construo+ferramentas+para+problemas+reais;Bots%2C+apps+mobile+e+infraestrutura+com+Docker;Atualmente+estagiando+na+Celepar" alt="typing"/>
 </p>
 
-# Matheus Vitor Schionato
+<p align="center">
+  <a href="https://mvitorls.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfólio-0b1020?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio"/></a>
+  <a href="https://mvitorls.github.io/portfolio/Curriculo_Matheus_Vitor_Schionato.pdf"><img src="https://img.shields.io/badge/Currículo-0b1020?style=for-the-badge&logo=readdotcv&logoColor=a78bfa" alt="CV"/></a>
+  <a href="https://www.linkedin.com/in/matheus-vitor-louren%C3%A7o-schionato-9a254a223/"><img src="https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn"/></a>
+  <a href="mailto:matheus.schionato17@gmail.com"><img src="https://img.shields.io/badge/E--mail-0b1020?style=for-the-badge&logo=gmail&logoColor=f87171" alt="Email"/></a>
+  <a href="https://t.me/VaigasBot"><img src="https://img.shields.io/badge/Radar_Bot-0b1020?style=for-the-badge&logo=telegram&logoColor=38bdf8" alt="Telegram bot"/></a>
+</p>
 
-Computer Science student at IFPR and software development intern at **Celepar** (Paraná's state IT company), in Curitiba, Brazil. I work mostly with PHP, Python and JavaScript/TypeScript, and I like building small tools that solve problems I actually have — the job-hunting bot and the goals app below both started that way.
+## 👨‍💻 Sobre mim
 
-[Portfolio](https://mvitorls.github.io/portfolio/) · [Resume (PDF)](https://mvitorls.github.io/portfolio/Curriculo_Matheus_Vitor_Schionato.pdf) · [LinkedIn](https://www.linkedin.com/in/matheus-vitor-louren%C3%A7o-schionato-9a254a223/) · matheus.schionato17@gmail.com
+- 🎓 Ciência da Computação no **IFPR**, em Curitiba
+- 💼 Estagiário de desenvolvimento na **Celepar** (desde ago/2026) — antes, estagiário de TI na **Lottopar** (abr/2025 – abr/2026)
+- 🛠️ Gosto de construir ferramentas para problemas que eu mesmo tenho: o bot que caça vagas pra mim, o app de metas que uso todo dia
+- 🐧 Ubuntu no dia a dia, tudo rodando em Docker
 
-## Experience
+## 🧰 Stack
 
-**Celepar** — Software Development Intern · Aug 2026 – present  
-Maintenance and refactoring of state government systems, automated tests, REST endpoint standardization and Bash scripting.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,python,ts,js,react,nodejs,express,tailwind,vite,html,docker,linux,nginx,bash,postgres,mysql,redis,sqlite,githubactions,prometheus,grafana,git&perline=11&theme=dark" alt="stack"/>
+</p>
 
-**Lottopar** — IT Intern · Apr 2025 – Apr 2026  
-Data pipelines (ETL) for internal reporting, network and internal systems support, technical documentation.
+## 🚀 Projetos em destaque
 
-## Projects
+<p align="center">
+  <a href="https://github.com/MvitorLS/checklist-de-metas"><img src="assets/cards/metacheck.svg" alt="checklist-de-metas" width="49%"/></a>
+  <a href="https://github.com/MvitorLS/telegram-radar-bot"><img src="assets/cards/radar-bot.svg" alt="telegram-radar-bot" width="49%"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/MvitorLS/projeto-controle-medicamentos"><img src="assets/cards/saudecontrol.svg" alt="projeto-controle-medicamentos" width="49%"/></a>
+  <a href="https://github.com/MvitorLS/monitoramento-redes-docker"><img src="assets/cards/monitoring.svg" alt="monitoramento-redes-docker" width="49%"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/MvitorLS/loja-virtual-testes"><img src="assets/cards/loja-testes.svg" alt="loja-virtual-testes" width="49%"/></a>
+  <a href="https://github.com/MvitorLS/docker-env"><img src="assets/cards/docker-env.svg" alt="docker-env" width="49%"/></a>
+</p>
 
-| | |
-| --- | --- |
-| **[MetaCheck](https://github.com/MvitorLS/checklist-de-metas)** — Android + web | Goal and habit tracker with daily/monthly/yearly goals and exact-time local alarms. React 19, TypeScript, Capacitor. [Web version](https://mvitorls.github.io/checklist-de-metas/) · [APK](https://github.com/MvitorLS/checklist-de-metas/releases/latest) |
-| **[Telegram Radar Bot](https://github.com/MvitorLS/telegram-radar-bot)** — Python | Scrapes intern/junior dev job posts from several sources, scores them against my skills and only notifies what's new. asyncio, httpx, APScheduler, SQLite, Docker. |
-| **[Loja Virtual — Testes](https://github.com/MvitorLS/loja-virtual-testes)** — Python | Unit vs. integration testing with pytest and mocks on a small e-commerce core. 28 tests, 100% coverage, CI on three Python versions. |
-| **[Network monitoring](https://github.com/MvitorLS/monitoramento-redes-docker)** — Docker | Prometheus, Blackbox/Node exporters, cAdvisor, Alertmanager and a provisioned Grafana dashboard, managed by a small CLI. |
-| **[SaúdeControl](https://github.com/MvitorLS/projeto-controle-medicamentos)** — JS + Express | Medication schedule, adherence history, vitals charts and a prescription parser (Tesseract OCR + regex). |
-| **[docker-env](https://github.com/MvitorLS/docker-env)** — Docker | Multi-language dev environment using Compose profiles, with a `./dev` CLI that detects the project type. |
+## 📊 No GitHub
 
-## Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MvitorLS/MvitorLS/output/stats.svg" alt="GitHub stats" width="49%"/>
+  <img src="https://raw.githubusercontent.com/MvitorLS/MvitorLS/output/languages.svg" alt="Languages" width="49%"/>
+</p>
 
-**Languages:** PHP 8, Python, JavaScript/TypeScript, SQL, Bash  
-**Web:** React, Node.js/Express, Tailwind, Vite  
-**Infra:** Docker/Compose, Linux, Nginx, Prometheus/Grafana, GitHub Actions  
-**Data:** PostgreSQL, MySQL, SQLite, Redis
-
-## Contributions
+## 🐍 Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MvitorLS/MvitorLS/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MvitorLS/MvitorLS/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/MvitorLS/MvitorLS/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="snake" src="https://raw.githubusercontent.com/MvitorLS/MvitorLS/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
