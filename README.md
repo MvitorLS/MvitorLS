@@ -1,6 +1,6 @@
 <p align="right"><b>🇧🇷 Português</b> · <a href="README.en.md">🇺🇸 English</a></p>
 
-<a href="https://mvitorls.github.io/portfolio/"><img src="assets/banner.svg" alt="Matheus Vitor Schionato" width="100%"/></a>
+<a href="https://mvitorls.github.io/portfolio/"><img src="assets/banner.svg" alt="Matheus Vitor Lourenço Schionato" width="100%"/></a>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&height=40&lines=Construo+ferramentas+para+problemas+reais;Bots%2C+apps+mobile+e+infraestrutura+com+Docker;Atualmente+estagiando+na+Celepar" alt="typing"/>
