@@ -24,7 +24,31 @@
 ## 🧰 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,ts,js,react,nodejs,express,tailwind,vite,html,docker,linux,nginx,bash,postgres,mysql,redis,sqlite,git,gitlab,githubactions,jenkins,prometheus,grafana&perline=12&theme=dark" alt="stack"/>
+  <a href="https://www.php.net" title="PHP 8 — Back-end com tipagem estrita e PSR-12"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP 8" title="PHP 8 — Back-end com tipagem estrita e PSR-12" width="46"/></a>
+  <a href="https://www.python.org" title="Python — Bots, automação, scraping e testes"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python — Bots, automação, scraping e testes" width="46"/></a>
+  <a href="https://www.typescriptlang.org" title="TypeScript — Front-end e apps tipados"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript — Front-end e apps tipados" width="46"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript — Web e Node.js"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript — Web e Node.js" width="46"/></a>
+  <a href="https://react.dev" title="React — Interfaces web e mobile (MetaCheck)"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React — Interfaces web e mobile (MetaCheck)" width="46"/></a>
+  <a href="https://nodejs.org" title="Node.js — APIs e servidores"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js — APIs e servidores" width="46"/></a>
+  <a href="https://expressjs.com" title="Express — APIs REST em Node.js"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" title="Express — APIs REST em Node.js" width="46"/></a>
+  <a href="https://tailwindcss.com" title="Tailwind CSS — Estilização utilitária"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" title="Tailwind CSS — Estilização utilitária" width="46"/></a>
+  <a href="https://vite.dev" title="Vite — Build e dev server do front"><img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" title="Vite — Build e dev server do front" width="46"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML5 — Páginas semânticas e acessíveis"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" title="HTML5 — Páginas semânticas e acessíveis" width="46"/></a>
+  <a href="https://www.docker.com" title="Docker — Containers e Docker Compose"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker — Containers e Docker Compose" width="46"/></a>
+  <a href="https://ubuntu.com" title="Linux — Ubuntu no dia a dia e servidores"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux — Ubuntu no dia a dia e servidores" width="46"/></a>
+  <br/>
+  <a href="https://nginx.org" title="Nginx — Proxy reverso e servidor web"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" alt="Nginx" title="Nginx — Proxy reverso e servidor web" width="46"/></a>
+  <a href="https://www.gnu.org/software/bash/" title="Bash — Scripts e CLIs de automação"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" title="Bash — Scripts e CLIs de automação" width="46"/></a>
+  <a href="https://www.postgresql.org" title="PostgreSQL — Banco relacional"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL — Banco relacional" width="46"/></a>
+  <a href="https://www.mysql.com" title="MySQL — Banco relacional"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL — Banco relacional" width="46"/></a>
+  <a href="https://redis.io" title="Redis — Cache e filas"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" title="Redis — Cache e filas" width="46"/></a>
+  <a href="https://www.sqlite.org" title="SQLite — Banco embarcado nos bots e apps"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" title="SQLite — Banco embarcado nos bots e apps" width="46"/></a>
+  <a href="https://git-scm.com" title="Git — Versionamento com Conventional Commits"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git — Versionamento com Conventional Commits" width="46"/></a>
+  <a href="https://about.gitlab.com" title="GitLab — Repositórios e GitLab CI no trabalho"><img src="https://skillicons.dev/icons?i=gitlab&theme=dark" alt="GitLab" title="GitLab — Repositórios e GitLab CI no trabalho" width="46"/></a>
+  <a href="https://github.com/features/actions" title="GitHub Actions — CI dos meus projetos"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions" title="GitHub Actions — CI dos meus projetos" width="46"/></a>
+  <a href="https://www.jenkins.io" title="Jenkins — Pipelines CI/CD no trabalho"><img src="https://skillicons.dev/icons?i=jenkins&theme=dark" alt="Jenkins" title="Jenkins — Pipelines CI/CD no trabalho" width="46"/></a>
+  <a href="https://prometheus.io" title="Prometheus — Métricas e alertas"><img src="https://skillicons.dev/icons?i=prometheus&theme=dark" alt="Prometheus" title="Prometheus — Métricas e alertas" width="46"/></a>
+  <a href="https://grafana.com" title="Grafana — Dashboards de observabilidade"><img src="https://skillicons.dev/icons?i=grafana&theme=dark" alt="Grafana" title="Grafana — Dashboards de observabilidade" width="46"/></a>
 </p>
 
 ## 🚀 Projetos em destaque
