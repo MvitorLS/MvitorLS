@@ -24,7 +24,7 @@
 ## 🧰 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,ts,js,react,nodejs,express,tailwind,vite,html,docker,linux,nginx,bash,postgres,mysql,redis,sqlite,githubactions,prometheus,grafana,git&perline=11&theme=dark" alt="stack"/>
+  <img src="https://skillicons.dev/icons?i=php,python,ts,js,react,nodejs,express,tailwind,vite,html,docker,linux,nginx,bash,postgres,mysql,redis,sqlite,git,gitlab,githubactions,jenkins,prometheus,grafana&perline=12&theme=dark" alt="stack"/>
 </p>
 
 ## 🚀 Projetos em destaque

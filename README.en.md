@@ -1,6 +1,6 @@
 <p align="right"><a href="README.md">🇧🇷 Português</a> · <b>🇺🇸 English</b></p>
 
-<a href="https://mvitorls.github.io/portfolio/"><img src="assets/banner-en.svg" alt="Matheus Vitor Schionato" width="100%"/></a>
+<a href="https://mvitorls.github.io/portfolio/"><img src="assets/banner-en.svg" alt="Matheus Vitor Lourenço Schionato" width="100%"/></a>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&height=40&lines=I+build+tools+for+real+problems;Bots%2C+mobile+apps+and+Docker+infrastructure;Currently+interning+at+Celepar" alt="typing"/>
@@ -24,7 +24,7 @@
 ## 🧰 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,ts,js,react,nodejs,express,tailwind,vite,html,docker,linux,nginx,bash,postgres,mysql,redis,sqlite,githubactions,prometheus,grafana,git&perline=11&theme=dark" alt="stack"/>
+  <img src="https://skillicons.dev/icons?i=php,python,ts,js,react,nodejs,express,tailwind,vite,html,docker,linux,nginx,bash,postgres,mysql,redis,sqlite,git,gitlab,githubactions,jenkins,prometheus,grafana&perline=12&theme=dark" alt="stack"/>
 </p>
 
 ## 🚀 Featured projects

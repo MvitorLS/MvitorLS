@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Matheus Vitor Schionato — Software Developer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Matheus Vitor Lourenço Schionato — Software Developer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1020"/>
@@ -57,13 +57,14 @@
     <!-- texto -->
     <g transform="translate(64 0)">
       <g class="fade d1">
-        <rect x="0" y="70" width="226" height="30" rx="15" fill="#34d399" fill-opacity=".12" stroke="#34d399" stroke-opacity=".35"/>
-        <circle class="dot" cx="20" cy="85" r="5" fill="#34d399"/>
-        <text x="34" y="90" class="sans" font-size="14" font-weight="600" fill="#6ee7b7">Open to opportunities</text>
+        <rect x="0" y="46" width="226" height="30" rx="15" fill="#34d399" fill-opacity=".12" stroke="#34d399" stroke-opacity=".35"/>
+        <circle class="dot" cx="20" cy="61" r="5" fill="#34d399"/>
+        <text x="34" y="66" class="sans" font-size="14" font-weight="600" fill="#6ee7b7">Open to opportunities</text>
       </g>
-      <text x="0" y="158" class="sans fade d2" font-size="46" font-weight="800" fill="url(#name)">Matheus Vitor Schionato</text>
-      <text x="0" y="200" class="sans fade d3" font-size="22" font-weight="500" fill="#cbd5e1">Software Developer · Fullstack &amp; DevOps</text>
-      <text x="0" y="238" class="mono fade d4" font-size="15" fill="#64748b">Computer Science @ IFPR  ·  Intern @ Celepar</text>
+      <text x="0" y="136" class="sans fade d2" font-size="48" font-weight="800" fill="url(#name)">Matheus Vitor</text>
+      <text x="0" y="190" class="sans fade d2" font-size="48" font-weight="800" fill="url(#name)">Lourenço Schionato</text>
+      <text x="0" y="234" class="sans fade d3" font-size="22" font-weight="500" fill="#cbd5e1">Software Developer · Fullstack &amp; DevOps</text>
+      <text x="0" y="268" class="mono fade d4" font-size="15" fill="#64748b">Computer Science @ IFPR  ·  Intern @ Celepar</text>
     </g>
   </g>
 </svg>
