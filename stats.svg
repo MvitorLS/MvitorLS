@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="584" height="244" viewBox="0 0 584 244" role="img" aria-label="GITHUB STATS">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#131a2e"/></linearGradient>
+    <radialGradient id="glow" cx="1" cy="0" r="1"><stop offset="0" stop-color="#38bdf8" stop-opacity=".18"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+    <style>
+      .grow { transform-box: fill-box; transform-origin: left; animation: grow 1.2s ease-out both; }
+      @keyframes grow { from { transform: scaleX(0) } }
+      .up { animation: up .8s ease-out both; }
+      @keyframes up { from { opacity: 0; transform: translateY(6px) } }
+    </style>
+  </defs>
+  <rect x=".5" y=".5" width="583" height="243" rx="16" fill="url(#bg)" stroke="#ffffff" stroke-opacity=".08"/>
+  <rect x=".5" y=".5" width="583" height="243" rx="16" fill="url(#glow)"/>
+  <text x="28" y="44" font-family="'JetBrains Mono', Consolas, 'DejaVu Sans Mono', Menlo, monospace" font-size="12" letter-spacing="1.5" fill="#38bdf8">GITHUB STATS</text>
+  <g class="up" style="animation-delay:0.00s"><rect x="28" y="78" width="256" height="64" rx="12" fill="#ffffff" fill-opacity=".03" stroke="#ffffff" stroke-opacity=".06"/><rect x="28" y="94" width="3" height="32" rx="1.5" fill="#38bdf8"/><text x="46" y="112" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="800" fill="#f1f5f9">197</text><text x="46" y="130" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#94a3b8">Contribuições (12 meses)</text></g><g class="up" style="animation-delay:0.12s"><rect x="300" y="78" width="256" height="64" rx="12" fill="#ffffff" fill-opacity=".03" stroke="#ffffff" stroke-opacity=".06"/><rect x="300" y="94" width="3" height="32" rx="1.5" fill="#a78bfa"/><text x="318" y="112" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="800" fill="#f1f5f9">105</text><text x="318" y="130" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#94a3b8">Commits</text></g><g class="up" style="animation-delay:0.24s"><rect x="28" y="156" width="256" height="64" rx="12" fill="#ffffff" fill-opacity=".03" stroke="#ffffff" stroke-opacity=".06"/><rect x="28" y="172" width="3" height="32" rx="1.5" fill="#34d399"/><text x="46" y="190" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="800" fill="#f1f5f9">10</text><text x="46" y="208" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#94a3b8">Repositórios públicos</text></g><g class="up" style="animation-delay:0.36s"><rect x="300" y="156" width="256" height="64" rx="12" fill="#ffffff" fill-opacity=".03" stroke="#ffffff" stroke-opacity=".06"/><rect x="300" y="172" width="3" height="32" rx="1.5" fill="#fbbf24"/><text x="318" y="190" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="800" fill="#f1f5f9">7</text><text x="318" y="208" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#94a3b8">Estrelas recebidas</text></g>
+</svg>
